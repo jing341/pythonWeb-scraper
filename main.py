@@ -12,3 +12,6 @@ print(type(a_boolean))
 print(type(a_none))
 
 #python 변수 이름을 정할 때 띄어쓰기가 필요하다면 '_' 를 사용한다. 예를 들어 super_long_variable 처럼 말이다.
+"""
+파이썬 한줄 주석은 '#'를 사용하면 되고 여러줄 주석은 따옴표 세개를 사용하면 된다.
+"""
